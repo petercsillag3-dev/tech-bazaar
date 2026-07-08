@@ -37,9 +37,3 @@ Egy modern, letisztult technológiai webáruház frontend prototípusa. A projek
 *   **JavaScript (ES6+)** – Dinamikus termékkezelés, kosár logika és DOM manipuláció
 *   **GitHub Pages** – Statikus hoszting és CI/CD automatizáció
 
----
-
-## 💡 Mit bizonyít ez a projekt egy interjún?
-1.  **Tiszta kód:** Modularitás és könnyen olvasható kódstruktúra.
-2.  **UI/UX Érzék:** A grafikai váz pontos, pixel-perfect megvalósítása kódban.
-3.  **Problémamegoldás:** Komplex kliensoldali logika (kosár kezelés).
